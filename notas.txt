@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 progamacion
+=======
+revisen por favor el libro de git y traten de integrarse 
+>>>>>>> b1c05ebd3ec90d8934469bad16f2cf9300e93cf8
