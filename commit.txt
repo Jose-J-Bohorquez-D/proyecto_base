@@ -1,0 +1,24 @@
+commit 09538b6ed23cc724c2d8bc7d00e723d428b149b1 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 6c15b98 b1c05eb
+Author: Jorge Mora <george_trumpet@hotmail.com>
+Date:   Sat Mar 25 23:13:34 2023 -0500
+
+    tex04
+
+commit b1c05ebd3ec90d8934469bad16f2cf9300e93cf8
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Sat Mar 25 23:05:02 2023 -0500
+
+    test 03
+
+commit 6c15b98bb8df61c84b060d9b511b3ad17803a28e
+Author: Jorge Mora <george_trumpet@hotmail.com>
+Date:   Sat Mar 25 22:28:24 2023 -0500
+
+    subiendo algo test 01
+
+commit 664565a30bcb740c948e4a369794d9c37b3969b2
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Sat Mar 25 20:43:06 2023 -0500
+
+    se deja material de apoyo tema (GIT) en pdf para que aprendamos a utilizarlo todos
