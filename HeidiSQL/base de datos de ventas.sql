@@ -1,0 +1,6 @@
+CREATE TABLE bdventas(
+producto VARCHAR(30) NOT NULL PRIMARY KEY,
+pedidos VARCHAR(50) NOT NULL,
+valor_unitario INT(12) NOT NULL
+
+)ENGINE=INNODB;
