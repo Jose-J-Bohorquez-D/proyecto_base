@@ -1,0 +1,16 @@
+git info
+pwd /direccion de ruta
+(verificar en que rama trabajar)
+((trabajar desde la carpeta repo))
+git status/ve el estado de nuevos cambios en la rama
+git pull origin main/actualiza nuevos cambios desde la rama prinicipal
+(nuevamente)
+git status/ para ver los datos descargados de la rama principal
+"despues de trabajar se suben los cambios de la siguente forma"
+git status/ verificar antes de estar en la carpeta del repo
+git add --all/ para subir todo 
+git status/ confirmar que esta listo para subir
+git commit -m "" /comentario del cambio
+git checkout <main>/ cambia de rama 
+git merge jorge// arrastra cambios de mi rama a la rama principal estando en main
+git push // subir cambios
