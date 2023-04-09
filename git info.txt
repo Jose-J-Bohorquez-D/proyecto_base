@@ -1,3 +1,22 @@
+1 actualizan el repo con
+git pull o git pull origin main
+2 verifican sus rutas tanto en archivos, carpetas y ramas
+3 realizan sus trabajos, pendientes, apoetes , etc...
+4 agregan todo al stagin con:
+git add --all (debe ser este para evitar posibles errores)
+5 deben rwalizar su respectivo commit :
+git commit -m "mensaje"
+6 subir sus commits al repo con:
+git pull o aveces sugiere algo similar 
+7 cambiar de rama a la principal y hacer el meege con:
+gir merge nombreDeLaRamaDeLaQueSeQuierenLlamarLosCambios
+8 subir los cambios al repo principal con :
+git push 
+9 verificar con alguien mas que los cambios se hayan subido con exito
+10 creo que vamos a reestructurar las ramas principales , por seguidad del proyecto deberia existir una rama anterior
+a la del main o (Principal), sugiero algo como depuracion o algo asi 
+
+
 git info
 pwd /direccion de ruta
 (verificar en que rama trabajar)
