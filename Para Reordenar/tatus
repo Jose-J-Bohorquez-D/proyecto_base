@@ -1,0 +1,555 @@
+[33mcommit 7da8725761ac4b8fa508de939a5a6f1e92121923[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Thu May 11 21:07:00 2023 -0500
+
+    se sube mer en formato dia y png
+
+[33mcommit 2b259d7c6058ac492da11f5103d75e92a370ac65[m
+Merge: 61260d2 b02c505
+Author: ronal cucariano <ronalcucariano@gmail.com>
+Date:   Mon May 8 21:43:54 2023 -0500
+
+     se deja carpeta MER con archivos
+
+[33mcommit b02c505be89163609d765bbc3ce2f2754faf73e4[m[33m ([m[1;31morigin/rama-principal-cuky[m[33m, [m[1;32mrama-principal-cuky[m[33m)[m
+Author: ronal cucariano <ronalcucariano@gmail.com>
+Date:   Mon May 8 21:33:37 2023 -0500
+
+     se deja carpeta MER
+
+[33mcommit 61260d21775fe5c949048347c3519c6aad7bf4aa[m
+Author: Jorge Mora <george_trumpet@hotmail.com>
+Date:   Fri May 5 23:43:07 2023 -0500
+
+    doc derechos humanos y paz
+
+[33mcommit 67a98c6c07f8eb6da4a192c95d3c37605739c58d[m
+Merge: 6cff570 9c1c96d
+Author: ronal cucariano <ronalcucariano@gmail.com>
+Date:   Thu May 4 19:38:05 2023 -0500
+
+    Merge branch 'main' of github.com:Jose-J-Bohorquez-D/proyecto_base
+
+[33mcommit 9c1c96d9e4067fbd9a399316ea52862ab0140ffa[m
+Author: Jorge Mora <george_trumpet@hotmail.com>
+Date:   Thu May 4 06:42:06 2023 -0500
+
+    diagrama er dia
+
+[33mcommit 8654d45ef0c768c6c1f58ad74b9fd7495af91449[m
+Author: Jorge Mora <george_trumpet@hotmail.com>
+Date:   Fri Apr 28 23:21:32 2023 -0500
+
+    se carga diagrama del salmon
+
+[33mcommit f4c2235b7fe9e6b505939f535cfc912ea5aa7bcd[m
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Thu Apr 27 01:32:21 2023 -0500
+
+    actualizando usu.txt
+
+[33mcommit c4c483312e9a2f9b6b136a6a4d8af8b8e5d8662b[m
+Author: Jorge Mora <george_trumpet@hotmail.com>
+Date:   Thu Apr 27 01:28:02 2023 -0500
+
+    entregable MER
+
+[33mcommit f7db2c069a7106a61128d31c6c447523bb8aa8f6[m
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Wed Apr 26 23:39:36 2023 -0500
+
+    dejamos datos para la proxima ocacion y salva vidas
+
+[33mcommit 31d2317c28a073c562e23a254d07640aebf8337e[m
+Author: stiven <stivenarrieta20@gmail.com>
+Date:   Fri Apr 21 11:38:53 2023 -0500
+
+    Encriptador de texto, HTML, CSS y JavaScript
+
+[33mcommit 6cff570feff0b4f531b3e6c60ab6c5228b9e5035[m
+Author: ronal cucariano <ronalcucariano@gmail.com>
+Date:   Tue Apr 11 22:51:59 2023 -0500
+
+    se deja sugerencias del world del proyecto
+
+[33mcommit 2f03656b399a43f1798f05dbf352126e2b28c061[m
+Author: ronal cucariano <ronalcucariano@gmail.com>
+Date:   Tue Apr 11 20:58:59 2023 -0500
+
+    dejo diapositivas
+
+[33mcommit 6ae37875899508bc668c93873ea71e59ef501026[m
+Author: Yosef Strong <YosefStrong@gmail.com>
+Date:   Sun Apr 9 03:47:25 2023 -0500
+
+    renombre el archivo de git info.txt
+
+[33mcommit 19adc71acc7ee48387288e0d43ac1dc6e7741ddc[m
+Author: Yosef Strong <YosefStrong@gmail.com>
+Date:   Sun Apr 9 03:38:34 2023 -0500
+
+    actualizamos ruta de trabajo en el .txt de git info.txt
+
+[33mcommit 0f32919c4b76b9745b9198f86ad92575ada9f9d1[m
+Author: Jorge Mora <george_trumpet@hotmail.com>
+Date:   Fri Apr 7 20:08:25 2023 -0500
+
+    blog de notas git, comandos
+
+[33mcommit b938b49d7eeb9be644f19182bc54f9038dc36f3b[m
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Fri Apr 7 19:42:26 2023 -0500
+
+    subo plantilla de la base de datos
+
+[33mcommit f2e491d1d6f0fe76a665cb6358524608bd350d58[m[33m ([m[1;31morigin/rama-principal-JoseBohorquez[m[33m)[m
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Fri Apr 7 19:07:51 2023 -0500
+
+    actualizamos repositorio , eliminamos basura y reordenamos un poco
+
+[33mcommit 85d9b7a9a25acf9d82b6ad18137f93b9c0accd43[m
+Author: Jorge Mora <george_trumpet@hotmail.com>
+Date:   Fri Apr 7 18:49:34 2023 -0500
+
+    copia proyeto word finalizado, revisar
+
+[33mcommit 71d7c6ebfa20c57f0e6b898d96e16f7f081a28a9[m
+Author: Jorge Mora <george_trumpet@hotmail.com>
+Date:   Fri Apr 7 18:23:18 2023 -0500
+
+    cambio de nombre carpeta proyecto
+
+[33mcommit ca16b0683c5e5c6b6d01ca753492e34fe5207680[m
+Merge: f5255b9 f82d3b6
+Author: stiven <stivenarrieta20@gmail.com>
+Date:   Thu Apr 6 19:26:44 2023 -0500
+
+    Merge branch 'rama-principal-andy'
+
+[33mcommit f82d3b61f0254e1d7c23beee356c184fb0c52e9c[m[33m ([m[1;31morigin/rama-principal-andy[m[33m)[m
+Author: stiven <stivenarrieta20@gmail.com>
+Date:   Thu Apr 6 19:09:46 2023 -0500
+
+    Base de datos HeidySQL
+
+[33mcommit f5255b9d0ebcd27ed91f3e816ef69c896e127c99[m
+Merge: 1178c91 8ab9a2f
+Author: ronal cucariano <ronalcucariano@gmail.com>
+Date:   Mon Apr 3 23:40:25 2023 -0500
+
+    789456
+
+[33mcommit 8ab9a2f4c548ff8b9754fb117d6a290b0cb0d65e[m
+Author: ronal cucariano <ronalcucariano@gmail.com>
+Date:   Mon Apr 3 23:34:00 2023 -0500
+
+    aqui tienen lamparas
+
+[33mcommit 1178c9169a3fcb6bd9526c80e041aa89cc57642d[m
+Merge: a0a89a1 e9111f6
+Author: Jose-J-Bohorquez-D <103705424+Jose-J-Bohorquez-D@users.noreply.github.com>
+Date:   Mon Apr 3 23:03:32 2023 -0500
+
+    Merge pull request #14 from Jose-J-Bohorquez-D/cabeza-de-monda
+    
+    actualizamos el paso a paso para el trabajo en equipo
+
+[33mcommit a0a89a11f161087ca2afb89e9443b10583e45935[m
+Merge: 87a7ce3 1e62567
+Author: ronal cucariano <ronalcucariano@gmail.com>
+Date:   Mon Apr 3 23:02:57 2023 -0500
+
+    color
+
+[33mcommit 1e625672451fee207457ebd9a89a069af029e231[m
+Author: ronal cucariano <ronalcucariano@gmail.com>
+Date:   Mon Apr 3 22:58:57 2023 -0500
+
+    cambio de color
+
+[33mcommit e9111f62c18edd40a4931116159704099dc769e0[m[33m ([m[1;31morigin/cabeza-de-monda[m[33m)[m
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Mon Apr 3 22:51:57 2023 -0500
+
+    actualizamos el paso a paso para el trabajo en equipo
+
+[33mcommit 87a7ce3d95e03527c4fa9b2c99a3ef1dac1fd39c[m[33m ([m[1;31morigin/rama-principal-luisR[m[33m)[m
+Author: Luis Rodriguez <luisjaguares33@gmail.com>
+Date:   Mon Apr 3 22:50:27 2023 -0500
+
+    integracion
+
+[33mcommit 075a7404d218030f0f0b03a7feb3a7f0da29d078[m
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Mon Apr 3 22:32:32 2023 -0500
+
+    pillalos ome
+
+[33mcommit 1956c99caa52a8afa925918ba5adb9b27498d4ea[m
+Merge: 49bc18c 0a93bd5
+Author: Jose-J-Bohorquez-D <103705424+Jose-J-Bohorquez-D@users.noreply.github.com>
+Date:   Mon Apr 3 22:27:12 2023 -0500
+
+    Merge pull request #13 from Jose-J-Bohorquez-D/rama-principal-cuky
+    
+    jajajaj
+
+[33mcommit 0a93bd58dd31ce8790cad04f4bad35f9dd6ec239[m
+Author: ronal cucariano <ronalcucariano@gmail.com>
+Date:   Mon Apr 3 22:23:50 2023 -0500
+
+    jajajaj
+
+[33mcommit 49bc18c1c759fced2bb25470dfdfef13afd61b8e[m
+Merge: 8355d63 e124471
+Author: Jose-J-Bohorquez-D <103705424+Jose-J-Bohorquez-D@users.noreply.github.com>
+Date:   Mon Apr 3 22:14:17 2023 -0500
+
+    Merge pull request #12 from Jose-J-Bohorquez-D/rama-principal-luisR
+    
+    prueba
+
+[33mcommit e12447177c4e6c8e0b4c836276f3a5c0cf1a7b88[m
+Author: Luis Rodriguez <luisjaguares33@gmail.com>
+Date:   Mon Apr 3 22:06:55 2023 -0500
+
+    prueba
+
+[33mcommit 8355d63e8b55f8575f27dbb04f6f36a0bccbe34c[m
+Merge: 26ad3da 145d6fd
+Author: Jose-J-Bohorquez-D <103705424+Jose-J-Bohorquez-D@users.noreply.github.com>
+Date:   Mon Apr 3 22:02:05 2023 -0500
+
+    Merge pull request #11 from Jose-J-Bohorquez-D/cabeza-de-monda
+    
+    mira mis cambios cabeza de monda
+
+[33mcommit 145d6fdc27f151f0ff6324d15dcb497a186ce191[m
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Mon Apr 3 21:59:38 2023 -0500
+
+    mira mis cambios cabeza de monda
+
+[33mcommit 26ad3dab08653cae750ba257ac78d1739dc3c2b6[m
+Merge: 08ae363 a44f479
+Author: Luis Rodriguez <luisjaguares33@gmail.com>
+Date:   Mon Apr 3 21:51:10 2023 -0500
+
+    Merge branch 'main' of github.com:Jose-J-Bohorquez-D/proyecto_base
+
+[33mcommit 08ae363e6a8f2297bc456f50b61d17c3f0181f39[m
+Author: Luis Rodriguez <luisjaguares33@gmail.com>
+Date:   Mon Apr 3 21:48:19 2023 -0500
+
+    prueba
+
+[33mcommit 8a64a4ae935b7af65d6308ac7c34c23951b30e1f[m
+Merge: d539bbf ddba28d
+Author: Luis Rodriguez <luisjaguares33@gmail.com>
+Date:   Mon Apr 3 20:41:18 2023 -0500
+
+    Merge branch 'ramaluisR_requisitos_especificos'
+
+[33mcommit a44f479a4b698186d980e7d66520be0a5b7ce7e6[m
+Merge: d539bbf ddba28d
+Author: Jose-J-Bohorquez-D <103705424+Jose-J-Bohorquez-D@users.noreply.github.com>
+Date:   Mon Apr 3 20:40:40 2023 -0500
+
+    Merge pull request #10 from Jose-J-Bohorquez-D/ramaluisR_requisitos_especificos
+    
+    cambios x pruebas
+
+[33mcommit ddba28d381f30acb6fab2dae97df325c0a5bdfc4[m[33m ([m[1;31morigin/ramaluisR_requisitos_especificos[m[33m)[m
+Author: Luis Rodriguez <luisjaguares33@gmail.com>
+Date:   Mon Apr 3 20:39:38 2023 -0500
+
+    cambios x pruebas
+
+[33mcommit d539bbf0cc280c5b995e7eb1778a55b576170c72[m
+Merge: cd7e2ed 397afb7
+Author: Jose-J-Bohorquez-D <103705424+Jose-J-Bohorquez-D@users.noreply.github.com>
+Date:   Sun Apr 2 17:45:54 2023 -0500
+
+    Merge pull request #8 from Jose-J-Bohorquez-D/ramaluisR_requisitos_especificos
+    
+    anexo requerimientos en la pestaña de trabajo introduccion relaizado …
+
+[33mcommit 397afb704cde9b0010fe20808af24bf6fdf4bc6f[m
+Merge: 4a8bc28 cd7e2ed
+Author: Luis Rodriguez <luisjaguares33@gmail.com>
+Date:   Sun Apr 2 17:45:20 2023 -0500
+
+    uniendo ramas
+
+[33mcommit 4a8bc28f40f4985fd069ebf403b8f75ddbf06a1d[m
+Author: Luis Rodriguez <luisjaguares33@gmail.com>
+Date:   Sun Apr 2 17:40:37 2023 -0500
+
+    anexo requerimientos en la pestaña de trabajo introduccion relaizado por Jose y requisitos especificos realizado por Luis
+
+[33mcommit cd7e2ed8a2167fbac2f0da1e9369f24aea25c02e[m
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Sun Apr 2 17:34:06 2023 -0500
+
+    ajustamos hoja introduccion de el formato de especificacion de requerimientos
+
+[33mcommit e4b9f7c40bf7c02e73e059dbb72d5821c3548d4f[m
+Merge: 4a1470e db9932c
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Sun Apr 2 16:53:32 2023 -0500
+
+    aceptamos cambios
+
+[33mcommit 4a1470eb2ee99c4a459f9bbc9662ed271580be15[m[33m ([m[1;31morigin/subrama_archivos_requerimientos[m[33m)[m
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Sun Apr 2 16:50:42 2023 -0500
+
+    ajustamos libro 1
+
+[33mcommit db9932c0ae5ab9fe035641b1903b1668240d70ae[m
+Author: Luis Rodriguez <luisjaguares33@gmail.com>
+Date:   Sun Apr 2 16:48:07 2023 -0500
+
+    anexo requerimientos en la pestaña de trabajo Descripcion General
+
+[33mcommit 0b3a0232f4ed81e1a1e3564d6e1b1919ef6623af[m
+Merge: 81b9e3f eabc00f
+Author: Jose-J-Bohorquez-D <103705424+Jose-J-Bohorquez-D@users.noreply.github.com>
+Date:   Sun Apr 2 15:53:00 2023 -0500
+
+    Merge pull request #7 from Jose-J-Bohorquez-D/subrama_archivos_requerimientos
+    
+     revision de cambios
+
+[33mcommit eabc00f18fd2f945e9df10f3de128902eff47e62[m
+Merge: d1fbe0d 81b9e3f
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Sun Apr 2 15:52:37 2023 -0500
+
+    aceptando cambios
+
+[33mcommit d1fbe0d83a35e978712ab3e83a6812c4f336572b[m
+Author: Luis Rodriguez <luisjaguares33@gmail.com>
+Date:   Sun Apr 2 15:44:59 2023 -0500
+
+     revision de cambios
+
+[33mcommit 81b9e3f1896c1fc0d300609782d062f53fa6d6fc[m
+Merge: adeeac3 2d647f9
+Author: Jose-J-Bohorquez-D <103705424+Jose-J-Bohorquez-D@users.noreply.github.com>
+Date:   Sun Apr 2 03:53:01 2023 -0500
+
+    Merge pull request #6 from Jose-J-Bohorquez-D/subrama_archivos_requerimientos
+    
+    Create README.md
+
+[33mcommit 2d647f9936578f072ad0b9bb59496d29a6d48095[m
+Author: Jose-J-Bohorquez-D <103705424+Jose-J-Bohorquez-D@users.noreply.github.com>
+Date:   Sun Apr 2 03:52:39 2023 -0500
+
+    Create README.md
+
+[33mcommit adeeac38e191277946e2aa6dbad847e921a9378c[m
+Merge: 7f7c823 ce76660
+Author: Jose-J-Bohorquez-D <103705424+Jose-J-Bohorquez-D@users.noreply.github.com>
+Date:   Sun Apr 2 02:23:13 2023 -0500
+
+    Merge pull request #5 from Jose-J-Bohorquez-D/adelantando-archivo-requerimientos
+    
+    actualice el formato de requerimientos en la hoja de introduccion
+
+[33mcommit ce766602644d982ca9234f1359c4de7898d7b9a2[m[33m ([m[1;31morigin/adelantando-archivo-requerimientos[m[33m)[m
+Merge: 1d0b1f7 7f7c823
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Sun Apr 2 02:22:44 2023 -0500
+
+    actualice el formato de requerimientos en la hoja de introduccion
+
+[33mcommit 1d0b1f7172a0e3c606d071feb083ebac6a10c590[m
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Sun Apr 2 02:17:52 2023 -0500
+
+    actualice el formato de requerimientos en la hoja de introduccion
+
+[33mcommit 7f7c8239ed0fe46aecf9813505a43af7e4c86de7[m
+Merge: bf49a3a d8dd23e
+Author: Jose-J-Bohorquez-D <103705424+Jose-J-Bohorquez-D@users.noreply.github.com>
+Date:   Sun Apr 2 02:02:19 2023 -0500
+
+    Merge pull request #4 from Jose-J-Bohorquez-D/subrama_archivos_requerimientos
+    
+    avanzamos con formato requerimientos en la hoja de descripcion general
+
+[33mcommit d8dd23ede90f403fb58c1d50f57bab320e66b447[m
+Author: Luis Rodriguez <luisjaguares33@gmail.com>
+Date:   Sun Apr 2 01:01:09 2023 -0600
+
+    avanzamos con formato requerimientos en la hoja de descripcion general
+
+[33mcommit bf49a3aa7dbbe841813077ef293bdf4056996a6a[m
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Sun Apr 2 01:31:13 2023 -0500
+
+    subi archivo de especificaciones
+
+[33mcommit 0d1e000ae2019042b90fcfafec6d8faa3bab5713[m
+Merge: 431d04a 3ef9da6
+Author: Jose-J-Bohorquez-D <103705424+Jose-J-Bohorquez-D@users.noreply.github.com>
+Date:   Sun Apr 2 01:09:50 2023 -0500
+
+    Merge pull request #3 from Jose-J-Bohorquez-D/subrama_luis_actualizacion_comandos_git
+    
+    agrego lista con los ultimos comandos aprendidos cabeza de monda
+
+[33mcommit 3ef9da6317bbec525e375e22f2e47d801a128a34[m[33m ([m[1;31morigin/subrama_luis_actualizacion_comandos_git[m[33m)[m
+Author: Luis Rodriguez <luisjaguares33@gmail.com>
+Date:   Sun Apr 2 00:06:49 2023 -0600
+
+    agrego lista con los ultimos comandos aprendidos
+
+[33mcommit 431d04ac9ca52e85c1ecc3931477bd46174c7445[m
+Merge: 5926959 dee591a
+Author: Jose-J-Bohorquez-D <103705424+Jose-J-Bohorquez-D@users.noreply.github.com>
+Date:   Sun Apr 2 00:02:23 2023 -0500
+
+    Merge pull request #2 from Jose-J-Bohorquez-D/rama-principal-luisR
+    
+    se crea rama principal para Luis R
+
+[33mcommit dee591a792d04cdf5b33da92357df1a8477d1997[m
+Author: Luis Rodriguez <luisjaguares33@gmail.com>
+Date:   Sat Apr 1 22:57:56 2023 -0600
+
+    se crea rama principal para Luis R
+
+[33mcommit 5926959e86bee8c8fb273147888a2a48f8fc43a4[m
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Sat Apr 1 23:50:37 2023 -0500
+
+    se agrega excel con comandos y ayudas
+
+[33mcommit bf1912a5a615929299971452dd3591145e6daacb[m
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Sat Apr 1 07:32:19 2023 -0500
+
+    se elimino la dependencia del .doc es un archivo temporal , solo ocupa espacio
+
+[33mcommit d29994c02ff1d104c39e83ba04c2625cc0bcc637[m
+Merge: b520fdd b9267b4
+Author: Jose-J-Bohorquez-D <103705424+Jose-J-Bohorquez-D@users.noreply.github.com>
+Date:   Thu Mar 30 23:25:16 2023 -0500
+
+    Merge pull request #1 from Jose-J-Bohorquez-D/trabajo-clara
+    
+    se crea archivo de clara
+
+[33mcommit b9267b4299d99c9a66023b7bb943c3be11aa211d[m[33m ([m[1;31morigin/trabajo-clara[m[33m, [m[1;32mtrabajo-clara[m[33m)[m
+Author: ronal cucariano <ronalcucariano@gmail.com>
+Date:   Thu Mar 30 23:15:41 2023 -0500
+
+    se crea archivo de clara
+
+[33mcommit b520fddb4fa29e2746d2037fc9f143ed7bf2b2d7[m
+Author: ronal cucariano <ronalcucariano@gmail.com>
+Date:   Thu Mar 30 22:54:06 2023 -0500
+
+    se crea nueva carpeta de tet
+
+[33mcommit 3f8b59c83a168f08ae0c1be99d568aab6e01349b[m
+Author: stiven <stivenarrieta20@gmail.com>
+Date:   Thu Mar 30 21:41:21 2023 -0500
+
+    HTML comandos basicos
+
+[33mcommit bb2b01e615e29a6e676cb6f12f6d52dd9beda401[m
+Author: Luis Rodriguez <luisjaguares33@gmail.com>
+Date:   Thu Mar 30 20:28:37 2023 -0600
+
+    se agrega plantilla de proyecto, se deja correcion
+
+[33mcommit fe7556cf8d91e12a2ef7b8e11eb69660279582e3[m
+Author: Luis Rodriguez <luisjaguares33@gmail.com>
+Date:   Tue Mar 28 21:49:12 2023 -0600
+
+    se edito block de notas
+
+[33mcommit 773dcd5fce4ada3027b69cba944f413461382a80[m
+Author: Luis Rodriguez <luisjaguares33@gmail.com>
+Date:   Tue Mar 28 21:36:53 2023 -0600
+
+    anexo carpeta taller de escritura
+
+[33mcommit f3bd108c976f6ad6d4872cdb65b7472f679d7970[m
+Author: Luis Rodriguez <luisjaguares33@gmail.com>
+Date:   Mon Mar 27 20:10:03 2023 -0600
+
+    anexe unas x en la pagina del final del doc
+
+[33mcommit 3c5e575a3d18da8dac2f56cf81357c832f92aadf[m
+Author: stiven <stivenarrieta20@gmail.com>
+Date:   Sun Mar 26 22:41:11 2023 -0500
+
+    base_de_datos
+
+[33mcommit 19b992d1c528fba1d0410e6fe0b4710fa5216e9d[m
+Merge: 1dbbbc7 20f48b5
+Author: stiven <stivenarrieta20@gmail.com>
+Date:   Sun Mar 26 22:05:53 2023 -0500
+
+    base de datos
+
+[33mcommit 20f48b558759aae22174208477365e370941ebb5[m
+Author: Jorge Mora <george_trumpet@hotmail.com>
+Date:   Sun Mar 26 21:03:50 2023 -0500
+
+    se hace correccion de ortografia y se actualiza proyecto hasta el tema de alcance
+
+[33mcommit 8a086482fb5b6686320da767cad8ddad3d3aea60[m
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Sun Mar 26 00:59:54 2023 -0500
+
+    se edita el documento de word dejando a la vista los objetivos especificos que creo serviran para seguir con lo planteado en la idea principal
+
+[33mcommit cccf2e1cee80205e0355d218f2fe1f43719ef278[m
+Author: Jorge Mora <george_trumpet@hotmail.com>
+Date:   Sat Mar 25 23:40:02 2023 -0500
+
+    se agrega documento word del proyecto
+
+[33mcommit eab0d6f38b3292cdab5006ad47da9d93f41b4b88[m
+Author: Jorge Mora <george_trumpet@hotmail.com>
+Date:   Sat Mar 25 23:30:57 2023 -0500
+
+    se agrega codigo para respaldo
+
+[33mcommit 09538b6ed23cc724c2d8bc7d00e723d428b149b1[m
+Merge: 6c15b98 b1c05eb
+Author: Jorge Mora <george_trumpet@hotmail.com>
+Date:   Sat Mar 25 23:13:34 2023 -0500
+
+    tex04
+
+[33mcommit b1c05ebd3ec90d8934469bad16f2cf9300e93cf8[m
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Sat Mar 25 23:05:02 2023 -0500
+
+    test 03
+
+[33mcommit 1dbbbc78f8a5ea626b78fbdce482364e49a45b52[m
+Author: stiven <stivenarrieta20@gmail.com>
+Date:   Sat Mar 25 22:49:41 2023 -0500
+
+    testeo 2
+
+[33mcommit 6c15b98bb8df61c84b060d9b511b3ad17803a28e[m
+Author: Jorge Mora <george_trumpet@hotmail.com>
+Date:   Sat Mar 25 22:28:24 2023 -0500
+
+    subiendo algo test 01
+
+[33mcommit 664565a30bcb740c948e4a369794d9c37b3969b2[m
+Author: Jose Bohorquez <bd567358546@gmail.com>
+Date:   Sat Mar 25 20:43:06 2023 -0500
+
+    se deja material de apoyo tema (GIT) en pdf para que aprendamos a utilizarlo todos
